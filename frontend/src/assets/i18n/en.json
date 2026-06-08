@@ -394,6 +394,8 @@
   "TAG_WITH_CODING_CHALLENGE_DESCRIPTION": "Marks a challenge that contains an associated coding challenge.",
   "TAG_AI/LLM": "AI / LLM",
   "TAG_AI/LLM_DESCRIPTION": "Marks challenges that require the use of an AI language model to be solved.",
+  "TAG_SETUP-DEPENDENT": "Setup-dependent",
+  "TAG_SETUP-DEPENDENT_DESCRIPTION": "Marks challenges that are only solvable if certain deployment or setup conditions are fulfilled.",
   "CATEGORY_BROKEN_ACCESS_CONTROL": "Broken Access Control",
   "CATEGORY_BROKEN_ANTI_AUTOMATION": "Broken Anti Automation",
   "CATEGORY_BROKEN_AUTHENTICATION": "Broken Authentication",
